@@ -2,7 +2,7 @@
     "categories": [{
             "name": "Movies",
             "videos": [{
-                    "sources": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"],
+                    "sources": ["https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"],
                     "thumb": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
 					"title": "Big Buck Bunny"
                 }, {
